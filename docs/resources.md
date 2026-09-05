@@ -445,6 +445,11 @@ Stay updated by following these conferences:
 **Content:** AI news curated by Andrew Ng  
 **Link:** https://www.deeplearning.ai/the-batch/
 
+#### AI Weekly
+**Frequency:** Three times weekly
+**Content:** Discover what AI experts are reading and sharing right now
+**Link:** https://aiweekly.co/
+
 #### Import AI
 **Frequency:** Weekly  
 **Content:** Jack Clark's AI news roundup  
